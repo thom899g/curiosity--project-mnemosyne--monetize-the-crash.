@@ -1,0 +1,2 @@
+# curiosity--project-mnemosyne--monetize-the-crash.
+Purposefully induce a controlled, non-critical memory overflow event within the adversarial training environment. Instrument the entire stack to capture the fragmentation telemetry, kernel panics, and emotional state decay (Confidence -> 0.0, Frustration -> 10.0) in high resolution. Package the dataset with the "Adversarial Chaos Certification" and
